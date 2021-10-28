@@ -11,7 +11,7 @@ c = int(input("c : "))
 
 d = (b**2) - (4*a*c)
 
-s1 = -b + cmath.sqrt(d)/2*a
+s1 = (-b + cmath.sqrt(d))/(2*a)
 s2 = (-b - cmath.sqrt(d))/(2*a)
 
-print("The Solutions are {0} and {1}".format(s1,s2))
+print(f"The Solutions are {s1} and {s2}")
