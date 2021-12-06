@@ -33,9 +33,7 @@ if Boy == "B":
              "\nFollow Your Goals")
 
 elif Boy == "G":
-    typeText("Please Dont spoil a Boys Life "
-             "\nBecause You will Pay for it "
-             "\nIn future Hahahahaha.......")
+    typeText("Hi girls please stay away plz....")
 
 elif Boy == "O":
     typeText("Its a Pleasure to meeting You"
